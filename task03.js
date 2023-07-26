@@ -17,5 +17,5 @@ const frequent = (array) =>{
     return mostFrequentElement;
 }
 
-const arr = frequent( [3, 5, 2, 5, 3, 3, 1, 4, 5])
+const arr = frequent( [3, 5, 2, 5, 3,3,3, 1, 4, 5])
 console.log(arr);
