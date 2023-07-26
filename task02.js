@@ -8,5 +8,5 @@ for(let i = 0; i<=array.length; i++){
 return sum;
 }
 
-const arrOfNum = sumOfPositive([2, -5, 10, -3, 7]) 
+const arrOfNum = sumOfPositive([2, -5, 10, -3, 7,-5,1]) 
 console.log(arrOfNum);
