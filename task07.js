@@ -1,6 +1,6 @@
 const romanToNum =(roman)=>{
     const numerical = {
-         I: 1,
+        I: 1,
         V: 5,
         X: 10,
         L: 50,
